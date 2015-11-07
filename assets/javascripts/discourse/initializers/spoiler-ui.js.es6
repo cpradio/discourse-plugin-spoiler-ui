@@ -13,7 +13,7 @@ export default
           id: "spoiler_ui_button",
           group: "extras",
           icon: "eye-slash",
-          perform: e => e.applySurround('[spoiler]', '[/spoiler]', I18n.t('composer.spoiler_ui_default_text'))
+          perform: e => e.applySurround('[spoiler]', '[/spoiler]', 'spoiler_ui_default_text')
         });
       });
     }

@@ -7,9 +7,6 @@ Composer Window Button
 Admin Settings
 ![](https://raw.githubusercontent.com/cpradio/discourse-plugin-spoiler-ui/master/screenshot-admin-settings.png)
 
-In Action
-![](https://raw.githubusercontent.com/cpradio/discourse-plugin-spoiler-ui/master/screenshot-action.gif)
-
 ## How to Help
 
 - Create a PR with a new translation!
