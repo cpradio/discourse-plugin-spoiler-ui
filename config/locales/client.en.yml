@@ -1,5 +1,5 @@
 en:
   js:
     composer:
-      spoiler_ui_button_text: "Insert Spoiler"
+      spoiler_ui_button_title: "Insert Spoiler"
       spoiler_ui_default_text: "spoiler text"
