@@ -1,13 +1,13 @@
 # Spoiler UI Plugin
 This plugin adds support for inserting a spoiler into the composer window via a UI.
 
-Composer Window Button
+Composer Window Button  
 ![](https://raw.githubusercontent.com/cpradio/discourse-plugin-spoiler-ui/master/screenshot-composer.png)
 
-Admin Settings
+Admin Settings  
 ![](https://raw.githubusercontent.com/cpradio/discourse-plugin-spoiler-ui/master/screenshot-admin-settings.png)
 
-In Action
+In Action  
 ![](https://raw.githubusercontent.com/cpradio/discourse-plugin-spoiler-ui/master/screenshot-action.gif)
 
 ## How to Help
